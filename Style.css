@@ -1,3 +1,23 @@
 h1 {
-    color: red;
+    color: rgb(68, 70, 223);
 }
+#p3 {text-align: right;
+    
+
+}
+
+#search { 
+          border-radius: 500px;
+          border:2px solid blue;
+          height: 30px;
+          outline: 0;
+          padding-left: 20px;
+          }
+ #button { background-color: rgb(64, 105, 241);
+           border-radius: 500px;
+    
+           height: 30px; 
+           outline: 0;
+           cursor: pointer;
+         
+}         
