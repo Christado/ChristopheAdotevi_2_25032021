@@ -282,6 +282,19 @@ header
     min-width: 250px;
 }
 
+.titrephotopop
+{
+    margin-top: 10px;
+    color: black;
+    font-size: 1.1em;
+}
+
+.couthebergementpop
+{
+    
+    font-size: 1.1em;
+}
+
 /* Hébergements Ville */
 
 #conthebergville

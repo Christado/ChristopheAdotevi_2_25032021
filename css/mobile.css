@@ -13,7 +13,7 @@
 
 h3
 {
-    font-size: 1em;
+    font-size: 1.2em;
 }
 
 /* Header + navigation */
@@ -266,6 +266,7 @@ header
 {
     margin-top: unset;
 }
+
 
 /* Hébergements Ville */
 
