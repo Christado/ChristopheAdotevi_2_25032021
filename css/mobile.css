@@ -8,7 +8,7 @@
 
 #bloc_page
 {
-    margin: auto;
+    margin:auto;
 }
 
 h3
@@ -210,15 +210,16 @@ header
 
 #conthebergpop
 {
-    width: 100%;
-    border-radius: unset;
+    width: 95%;
+    border-radius: 10px;
     margin: unset;
-    margin-left: -12px;
+    margin-left:   0px;
     margin-right: -12px;
     margin-bottom: 20px;
     padding-bottom: 30px;
-    padding-left: 12px;
+    padding-left: 0px;
     padding-right: 12px;
+    
 }
 
 .hebergementspop
@@ -272,13 +273,14 @@ header
 
 #conthebergville
 {
-    background-color: unset;
+    background-color:#f2f2f2;
     width: 100%;
-    border-radius: unset;
+    border-radius: 10px;
     margin: unset;
     align-items: center;
-    padding-right: unset;
-    margin-right: 5px;
+    padding-right:unset;
+    margin-right: 0px;
+    margin-left: 5px;
 }
 
 #hebergville
@@ -297,6 +299,7 @@ header
 .lienheberg
 {
     width: 100%;
+    margin-right: 20px;
 }
 
 .hebergfig
